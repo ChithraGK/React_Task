@@ -1,0 +1,11 @@
+table,tr,th,td {
+    border: 2px solid rgb(10, 1, 1);
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 20px;
+    margin-top: 40px;
+}
+h1,h2,form,search{
+    text-align: center;
+}
